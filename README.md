@@ -71,16 +71,16 @@ Manual Excel tests covered populated data, reactivation from a lower stage, dupl
 
 See [CHANGELOG.md](CHANGELOG.md).
 
-## Product preview
+## Product Preview
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/PL-002%20Dashboard.png)
 
 ### Live Data
-![Live Data](Screenshots/live-data.png)
+![Live Data](Screenshots/PL-002%20Live%20Data.png)
 
 ### Historical Data
-![Historical Data](Screenshots/historical-data.png)
+![Historical Data](Screenshots/PL-002%20Historical.png)
 
 ## Author
 
